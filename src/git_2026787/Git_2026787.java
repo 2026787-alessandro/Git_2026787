@@ -16,6 +16,7 @@ public class Git_2026787 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Alessandro - 2026787");
+        System.out.println("Second commit");
     }
     
 }
